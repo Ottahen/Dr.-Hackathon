@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hacker_green">#00FF41</color>
+    <color name="hacker_dark_green">#003B00</color>
+    <color name="hacker_black">#0D0208</color>
+    <color name="hacker_grey">#1A1A1A</color>
+    <color name="hacker_cyan">#00FFFF</color>
+    
+    <!-- Override default colors for rebranding -->
+    <color name="primary_brand">#00FF41</color>
+    <color name="background_dark">#0D0208</color>
+    <color name="surface_dark">#1A1A1A</color>
+</resources>
